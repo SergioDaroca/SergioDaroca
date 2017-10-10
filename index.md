@@ -1,8 +1,8 @@
-![NJRA](http://www.flashdance.es/res/imgs/webs/thumbs/njra-2016.png)
-![Actidea Diseño](http://www.flashdance.es/res/imgs/webs/thumbs/actidea-diseño.png)
-![Cyan Oman](http://www.flashdance.es/res/imgs/webs/thumbs/cyan-animatica-oman.png)
-![Dani Piruleta](http://www.flashdance.es/res/imgs/webs/thumbs/dani-piruleta.png)
-![Ojo de Actidea](http://www.flashdance.es/res/imgs/webs/thumbs/actidea-ojo.png)
+[![NJRA](http://www.flashdance.es/res/imgs/webs/thumbs/njra-2016.png)](http://www.actidea.es/nochesalcazar2017/calendario)
+[![Actidea](http://www.flashdance.es/res/imgs/webs/thumbs/actidea-diseño.png)](http://www.actidea.com/diseño)
+[![Cyan Oman](http://www.flashdance.es/res/imgs/webs/thumbs/cyan-animatica-oman.png)](http://www.cyananimatica.com/portfolio-items/national-museum-oman/?portfolioCats=1488)
+[![Dani Piruleta](http://www.flashdance.es/res/imgs/webs/thumbs/dani-piruleta.png)](http://www.danielcuberta.com/)
+[![Ojo de Actidea](http://www.flashdance.es/res/imgs/webs/thumbs/actidea-ojo.png)](http://www.actidea.com)
 
 ## Things I've built
 [Actidea.com ](http://www.actidea.com/diseño) A site made with Pathfinder CMS
@@ -13,12 +13,14 @@
 
 [INTERACTIVE APPLICATIONS for MUSEUMS](http://www.cyananimatica.com/portfolio-items/national-museum-oman/?portfolioCats=1488)
 
-[Flashdance CMS](https://www.youtube.com/watch?v=Xio8YCLB6-o)
-
 ## Personal Projects
 [GREAT DAY](https://github.com/SergioDaroca/Great-Day-WordPress-theme) A wordpress theme
 
 [WP LIVE CSS EDITOR](https://wordpress.org/plugins/wp-live-css-editor/) A wordpress plugin
+
+[Flashdance CMS](https://www.youtube.com/watch?v=Xio8YCLB6-o)
+
+## Playground
 
 [Responsive menu -CSS only -and some flexbox](https://codepen.io/SergioDaroca/pen/bgKPqY)
 
