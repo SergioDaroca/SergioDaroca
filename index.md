@@ -11,12 +11,12 @@
 
 [Daniel Cuberta](http://www.danielcuberta.com/peliculas/6-manzanas/)
 
-[INTERACTIVE APPLICATIONS for MUSEUMS](http://www.cyananimatica.com/portfolio-items/national-museum-oman/?portfolioCats=1488)
+[Interactive applications for museums](http://www.cyananimatica.com/portfolio-items/national-museum-oman/?portfolioCats=1488)
 
 ## Personal Projects
-[GREAT DAY](https://github.com/SergioDaroca/Great-Day-WordPress-theme) A wordpress theme
+[Great day](https://github.com/SergioDaroca/Great-Day-WordPress-theme) A wordpress theme
 
-[WP LIVE CSS EDITOR](https://wordpress.org/plugins/wp-live-css-editor/) A wordpress plugin
+[WP Live CSS Editor](https://wordpress.org/plugins/wp-live-css-editor/) A wordpress plugin
 
 [Flashdance CMS](https://www.youtube.com/watch?v=Xio8YCLB6-o)
 
