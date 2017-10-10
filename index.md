@@ -1,27 +1,26 @@
 ## Things I've built
--[ACTIDEA.COM ](http://www.actidea.com/diseño)
-  A site made with Pathfinder CMS
--[NOCHES EN LOS JARDINES DEL REAL ALCÁZAR](http://www.actidea.es/nochesalcazar2017/calendario)
-  Turn your phone on the concert calendar page to see the CSS in action. 
--[DANIEL CUBERTA](http://www.danielcuberta.com/peliculas/6-manzanas/)
--[INTERACTIVE APPLICATIONS for MUSEUMS](http://www.cyananimatica.com/portfolio-items/national-museum-oman/?portfolioCats=1488)
--[FLASHDANCE CMS](https://www.youtube.com/watch?v=Xio8YCLB6-o)
+- [ACTIDEA.COM ](http://www.actidea.com/diseño) | A site made with Pathfinder CMS
+- [NOCHES EN LOS JARDINES DEL REAL ALCÁZAR](http://www.actidea.es/nochesalcazar2017/calendario) | Turn your phone on the concert calendar page to see the CSS in action. 
+- [DANIEL CUBERTA](http://www.danielcuberta.com/peliculas/6-manzanas/)
+- [INTERACTIVE APPLICATIONS for MUSEUMS](http://www.cyananimatica.com/portfolio-items/national-museum-oman/?portfolioCats=1488)
+- [FLASHDANCE CMS](https://www.youtube.com/watch?v=Xio8YCLB6-o)
 
 ## Personal Projects
--[GREAT DAY](https://github.com/SergioDaroca/Great-Day-WordPress-theme) | A wordpress theme
--[WP LIVE CSS EDITOR](https://wordpress.org/plugins/wp-live-css-editor/) | A wordpress plugin
--[Responsive menu -CSS only -and some flexbox](https://codepen.io/SergioDaroca/pen/bgKPqY)
--[Google Fonts Playground with ReactBootstrap](https://codepen.io/SergioDaroca/pen/PbgNRr)
--[Text Animations with ReactBootstrap and GSAP](https://codepen.io/SergioDaroca/pen/dNPpNe?editors=0010)
+- [GREAT DAY](https://github.com/SergioDaroca/Great-Day-WordPress-theme) | A wordpress theme
+- [WP LIVE CSS EDITOR](https://wordpress.org/plugins/wp-live-css-editor/) | A wordpress plugin
+- [Responsive menu -CSS only -and some flexbox](https://codepen.io/SergioDaroca/pen/bgKPqY)
+- [Google Fonts Playground with ReactBootstrap](https://codepen.io/SergioDaroca/pen/PbgNRr)
+- [Text Animations with ReactBootstrap and GSAP](https://codepen.io/SergioDaroca/pen/dNPpNe?editors=0010)
 
 ## Download my CV
 -[SERGIO DAROCA FERNÁNDEZ CV](http://www.flashdance.es/res/files/Sergio-Daroca-curriculum-vitae.pdf)
 
-![](http://www.flashdance.es/res/imgs/webs/actidea-ojo.png)
-![](http://www.flashdance.es/res/imgs/webs/actidea-diseño.png)
-![](http://www.flashdance.es/res/imgs/webs/njra-2016.png)
-![](http://www.flashdance.es/res/imgs/webs/dani-piruleta.pn)
-![](http://www.flashdance.es/res/imgs/webs/cyan-animatica-oman.png)
+![Ojo de Actidea](http://www.flashdance.es/res/imgs/webs/actidea-ojo.png)
+![Actidea Diseño](http://www.flashdance.es/res/imgs/webs/actidea-diseño.png)
+![NJRA](http://www.flashdance.es/res/imgs/webs/njra-2016.png)
+![DAni Piruleta](http://www.flashdance.es/res/imgs/webs/dani-piruleta.pn)
+![Cyan Oman](http://www.flashdance.es/res/imgs/webs/cyan-animatica-oman.png)
+
 	<li><a href="#oversettelser">OVERSETTELSE</a></li>
 	<li><a href="#undervisning">UNDERVISNING</a></li>
   
