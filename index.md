@@ -1,3 +1,9 @@
+![Ojo de Actidea](http://www.flashdance.es/res/imgs/webs/thumbs/actidea-ojo.png)
+![Actidea Diseño](http://www.flashdance.es/res/imgs/webs/thumbs/actidea-diseño.png)
+![NJRA](http://www.flashdance.es/res/imgs/webs/thumbs/njra-2016.png)
+![Dani Piruleta](http://www.flashdance.es/res/imgs/webs/thumbs/dani-piruleta.png)
+![Cyan Oman](http://www.flashdance.es/res/imgs/webs/thumbs/cyan-animatica-oman.png)
+
 ## Things I've built
 [Actidea.com ](http://www.actidea.com/diseño) A site made with Pathfinder CMS
 
@@ -19,12 +25,6 @@
 [Google Fonts Playground with ReactBootstrap](https://codepen.io/SergioDaroca/pen/PbgNRr)
 
 [Text Animations with ReactBootstrap and GSAP](https://codepen.io/SergioDaroca/pen/dNPpNe?editors=0010)
-
-![Ojo de Actidea](http://www.flashdance.es/res/imgs/webs/thumbs/actidea-ojo.png)
-![Actidea Diseño](http://www.flashdance.es/res/imgs/webs/thumbs/actidea-diseño.png)
-![NJRA](http://www.flashdance.es/res/imgs/webs/thumbs/njra-2016.png)
-![Dani Piruleta](http://www.flashdance.es/res/imgs/webs/thumbs/dani-piruleta.pn)
-![Cyan Oman](http://www.flashdance.es/res/imgs/webs/thumbs/cyan-animatica-oman.png)
 
 ## Oversettelse
 **Cristina Gómez Baggethun** og jeg oversatte [The gipsy in me](http://www.interfolio.es/Actual/Entradas/2014/11/8_EL_GITANO_QUE_HAY_EN_MI.html) av Ted Simon fra engelsk til spansk.
