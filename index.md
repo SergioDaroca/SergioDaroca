@@ -5,18 +5,22 @@
 [![Ojo de Actidea](http://www.flashdance.es/res/imgs/webs/thumbs/actidea-ojo.png)](http://www.actidea.com)
 
 ## Things I've built
-[Actidea.com ](http://www.actidea.com/diseño) A site made with Pathfinder CMS
+[Actidea.com ](http://www.actidea.com/diseño)
+A site made with Pathfinder CMS
 
-[Noches en los jardines del Real Alcázar](http://www.actidea.es/nochesalcazar2017/calendario) Turn your phone on the concert calendar page to see the CSS in action.
+[Noches en los jardines del Real Alcázar](http://www.actidea.es/nochesalcazar2017/calendario)
+Turn your phone on the calendar page (or shrink the browser width) and smile!
 
 [Daniel Cuberta](http://www.danielcuberta.com/peliculas/6-manzanas/)
 
 [Interactive applications for museums](http://www.cyananimatica.com/portfolio-items/national-museum-oman/?portfolioCats=1488)
 
 ## Personal Projects
-[Great day](https://github.com/SergioDaroca/Great-Day-WordPress-theme) A wordpress theme
+[Great day](https://github.com/SergioDaroca/Great-Day-WordPress-theme)
+A wordpress theme
 
-[WP Live CSS Editor](https://wordpress.org/plugins/wp-live-css-editor/) A wordpress plugin
+[WP Live CSS Editor](https://wordpress.org/plugins/wp-live-css-editor/)
+A wordpress plugin
 
 [Flashdance CMS](https://www.youtube.com/watch?v=Xio8YCLB6-o)
 
@@ -29,15 +33,15 @@
 [Text Animations with ReactBootstrap and GSAP](https://codepen.io/SergioDaroca/pen/dNPpNe?editors=0010)
 
 ## Oversettelse
-**Cristina Gómez Baggethun** og jeg oversatte [The gipsy in me](http://www.interfolio.es/Actual/Entradas/2014/11/8_EL_GITANO_QUE_HAY_EN_MI.html) av Ted Simon fra engelsk til spansk.
+**Cristina Gómez Baggethun** og jeg oversatte Ted Simons [The gipsy in me](http://www.interfolio.es/Actual/Entradas/2014/11/8_EL_GITANO_QUE_HAY_EN_MI.html)
 
 Vi oversatte også Fram Museets COLD RECALL utstilling til spansk som [MEMORIA HELADA](http://www.museocienciavalladolid.es/opencms/mcva/QueOfrecemos/Actualidad/EventosPropios/eventospropios/eventoprop_0253.html?calYear=2017&calMonth=4)
 
 ## Undervisning
 **Algoritmia**:
-Jeg utvikler for øyeblikket et didaktisk verktøy for å gi barn grunnleggende ferdigheter i problemløsing, som også er en unplugged introduksjon til programmering.
+Jeg utvikler for øyeblikket et didaktisk enhet for å gi barn grunnleggende ferdigheter i problemløsing, som også er en unplugged introduksjon til programmering.
 
-Jeg tok den spanske Praktisk-pedagogiske utdanningen i 2009 (Certificado de Aptitud Pedagógica) og utviklet da DONT PANIC, et didaktisk verktøy for 14 år gamle barn, som har til hensikt å hjelpe ungdommene til å komme inn i mediaens verden med solid _footing_ og eget verktøy.
+Jeg tok den spanske Praktisk-pedagogiske utdanningen i 2009 (Certificado de Aptitud Pedagógica) og utviklet da **DONT PANIC**, et didaktisk enhet for 14 år gamle barn, som har til hensikt å hjelpe ungdommene til å komme inn i mediaens verden med solid _footing_ og eget verktøy.
 
 Jeg var også praktikanter veileder i TV Marinaleda.
 
