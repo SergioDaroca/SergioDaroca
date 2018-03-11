@@ -24,7 +24,7 @@ Slow, handcoded me.
 An introduction to problem solving, programming, and robots..
 
 [Klimaendringer](http://www.flashdance.es/sergiodaroca/klimaendringer.html)
-A recollection on climate change with many norwegian sources. We've changed climate. But do we change ourselves?
+A collection on climate change with many norwegian sources. We've changed climate. But do we change ourselves?
 
 [Great day](https://github.com/SergioDaroca/Great-Day-WordPress-theme)
 A wordpress theme
