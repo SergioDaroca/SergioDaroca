@@ -15,6 +15,9 @@ Turn your phone on the calendar page (or shrink the browser width) and smile!
 
 [Interactive applications for museums](http://www.cyananimatica.com/portfolio-items/national-museum-oman/?portfolioCats=1488)
 
+[My personal site](http://www.flashdance.es)
+Slow, handcoded me.
+
 ## Personal Projects
 [Great day](https://github.com/SergioDaroca/Great-Day-WordPress-theme)
 A wordpress theme
@@ -23,6 +26,9 @@ A wordpress theme
 A wordpress plugin
 
 [Flashdance CMS](https://www.youtube.com/watch?v=Xio8YCLB6-o)
+
+[Klimaendringer](http://www.flashdance.es/sergiodaroca/klimaendringer.html)
+A recollection on climate change with many norwegian sources. We've changed climate. But do we change ourselves?
 
 ## Playground
 
