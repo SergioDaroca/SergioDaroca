@@ -19,6 +19,13 @@ Turn your phone on the calendar page (or shrink the browser width) and smile!
 Slow, handcoded me.
 
 ## Personal Projects
+
+[Algorithmia](http://www.flashdance.es/res/files/algoritmia/Algorithmia-a-didactic-unit-on-handling-problems--and-robots.pdf)
+An introduction to problem solving, programming, and robots..
+
+[Klimaendringer](http://www.flashdance.es/sergiodaroca/klimaendringer.html)
+A recollection on climate change with many norwegian sources. We've changed climate. But do we change ourselves?
+
 [Great day](https://github.com/SergioDaroca/Great-Day-WordPress-theme)
 A wordpress theme
 
@@ -26,9 +33,6 @@ A wordpress theme
 A wordpress plugin
 
 [Flashdance CMS](https://www.youtube.com/watch?v=Xio8YCLB6-o)
-
-[Klimaendringer](http://www.flashdance.es/sergiodaroca/klimaendringer.html)
-A recollection on climate change with many norwegian sources. We've changed climate. But do we change ourselves?
 
 ## Playground
 
