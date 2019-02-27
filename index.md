@@ -5,6 +5,9 @@
 [![Ojo de Actidea](http://www.flashdance.es/res/imgs/webs/thumbs/actidea-ojo.png)](http://www.actidea.com)
 
 ## Things I've built
+[My personal site](http://www.flashdance.es)
+Slow, handcoded me.
+
 [Actidea.com ](http://www.actidea.com/diseño)
 A site made with Pathfinder CMS
 
@@ -15,8 +18,6 @@ Turn your phone on the calendar page (or shrink the browser width) and smile!
 
 [Interactive applications for museums](http://www.cyananimatica.com/portfolio-items/national-museum-oman/?portfolioCats=1488)
 
-[My personal site](http://www.flashdance.es)
-Slow, handcoded me.
 
 ## Personal Projects
 
