@@ -14,8 +14,6 @@ A site made with Pathfinder CMS
 [Noches en los jardines del Real Alcázar](http://www.actidea.es/nochesalcazar2017/calendario)
 Turn your phone on the calendar page (or shrink the browser width) and smile!
 
-[Daniel Cuberta](http://www.danielcuberta.com/peliculas/6-manzanas/)
-
 [Interactive applications for museums](http://www.cyananimatica.com/portfolio-items/national-museum-oman/?portfolioCats=1488)
 
 
