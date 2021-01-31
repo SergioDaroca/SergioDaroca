@@ -42,6 +42,11 @@ A wordpress plugin
 [Text Animations with ReactBootstrap and GSAP](https://codepen.io/SergioDaroca/pen/dNPpNe?editors=0010)
 
 ## Oversettelse
+
+Gerd Nygårdshaugs [**Mengele Zoo**](https://www.nordicalibros.com/product/mengele-zoo/) til spansk med **Pablo Osorio**
+
+Maria Parrs [**Keeperen og havet**](https://www.nordicalibros.com/product/lena-theo-y-el-mar/) til spansk med **Cristina Gómez Baggethun**
+
 **Cristina Gómez Baggethun** og jeg oversatte Ted Simons [The gipsy in me](http://www.interfolio.es/Actual/Entradas/2014/11/8_EL_GITANO_QUE_HAY_EN_MI.html)
 
 Vi oversatte også Fram Museets COLD RECALL utstilling til spansk som [MEMORIA HELADA](http://www.museocienciavalladolid.es/opencms/mcva/QueOfrecemos/Actualidad/EventosPropios/eventospropios/eventoprop_0253.html?calYear=2017&calMonth=4)
